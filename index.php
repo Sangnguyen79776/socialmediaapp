@@ -11,11 +11,11 @@
 
 <html>
 	<head>
-<<<<<<< HEAD
+
 		<title>Social media App </title>
-=======
-		<title>Social Media App</title>
->>>>>>> c2420e1b40e14aef76eba065ab9af172ceae9f6f
+
+		
+
 		<meta charset="UTF-8" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"/>
         <!-- <link rel="stylesheet" href="assets/css/style-complete.css"/> -->
