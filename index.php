@@ -11,7 +11,7 @@
 
 <html>
 	<head>
-		<title>TwitterClone</title>
+		<title>Social media App </title>
 		<meta charset="UTF-8" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"/>
         <!-- <link rel="stylesheet" href="assets/css/style-complete.css"/> -->
@@ -29,7 +29,7 @@
                         <img class="login-bird" src="<?php echo BASE_URL . "/assets/images/twitter-logo.png"; ?>" alt="bird">
                         <button class="login-small-display signin-btn pri-btn">Log in</button>
                         <span class="front-para">See what’s happening in the world right now</span>
-                        <span class="join">Join TwitterClone Today.</span>
+                        <span class="join">Join Our Social Media App Today.</span>
                         <button type="button" id="auto" onclick="" class="signup-btn pri-btn" data-toggle="modal" data-target="#exampleModalCenter">
                             Sign Up</button>
                             
@@ -78,8 +78,8 @@
                     <li><a href="#">Advertise</a></li>
                     <li><a href="#">Developers</a></li>
                     <li><a href="#">Settings</a></li>
-                    <li>© 2021 - Twitter Clone</li>
-                    <li style="color:#1DA1F2;"><b>- Developed By Amin Yasser -</b></li>
+                    <li>© Copyright at  <?php echo date('Y')?></li>
+                
                 </ul>
             </footer>
         </main>
